@@ -29,6 +29,7 @@ Her kan dere øve på både Git og HTML kode
 * Ask
 * Jakub ༼ つ ◕_◕ ༽つ
 * Tobias
+* Marius 
 * Dennis
 
 ## Utfordring 2
