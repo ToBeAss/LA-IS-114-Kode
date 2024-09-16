@@ -31,10 +31,12 @@ Her kan dere øve på både Git og HTML kode
 * Dennis
 
 ## Utfordring 2
-1. Lag en kopi av mal.html
-2. Endre navnet på filen til `NAVNET_DITT.html`
-3. Åpne html-fila med Sublime eller annet tekstredigeringsverktøy
-4. Utform nettsiden som du vil og åpne html-fila i nettleser for å se resultatet
+1. Trykk sync fork i repositoriet ditt for å få nyeste versjon
+2. Skriv `git pull` i terminalen for å oppdatere repositoriet lokalt
+3. Lag en kopi av mal.html
+4. Endre navnet på filen til `NAVNET_DITT.html`
+5. Åpne html-fila med Sublime eller annet tekstredigeringsverktøy
+6. Utform nettsiden som du vil og åpne html-fila i nettleser for å se resultatet
   * Bruk nettsider som [w3schools](https://www.w3schools.com/html/default.asp) og [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/HTML) for å finne ut hva du kan gjøre
-5. Push til ditt repository/din fork på GitHub
-6. Spør om å merge din fork med dette repositoriet
+7. Push til ditt repository/din fork på GitHub
+8. Spør om å merge din fork med dette repositoriet
