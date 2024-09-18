@@ -31,6 +31,7 @@ Her kan dere øve på både Git og HTML kode
 * Tobias
 * Marius 
 * Dennis
+* Elias L
 
 ## Utfordring 2
 1. Trykk sync fork i repositoriet ditt for å få nyeste versjon
